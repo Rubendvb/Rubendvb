@@ -24,6 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rubendvb&show_icons=true&locale=en" alt="Rubendvb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubendvb&" alt="Rubendvb" /></p>
-
-### About me
-I'm a {FullStack} developer!!
