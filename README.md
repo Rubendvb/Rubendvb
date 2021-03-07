@@ -13,10 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/fdgdfgdfg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fdgdfgdfg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ruben-vasquez-71711a1b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ruben-vasquez-71711a1b7/" height="30" width="40" /></a>
-<a href="https://medium.com/@ffdfsf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ffdfsf" height="30" width="40" /></a>
-<a href="/nhghgfh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="nhghgfh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
