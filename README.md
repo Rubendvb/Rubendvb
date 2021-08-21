@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Api Net Promoter Score](https://github.com/Rubendvb/api-Net-Promoter-Score-NPS--calculation)
 
-- 🌱 I’m currently learning **JavaScript and NodeJs**
+- 🌱 I’m currently learning **JavaScript, Python and NodeJs**
 
 - 📫 How to reach me **rubenvasquez556@gmail.com**
 
