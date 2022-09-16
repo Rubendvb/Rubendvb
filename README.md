@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubendvb" alt="rubendvb" /></a> </p>
 
-- 🔭 I’m currently working on [Api Net Promoter Score](https://github.com/Rubendvb/api-Net-Promoter-Score-NPS--calculation)
+- 🔭 I’m currently working on [NLW eSport](https://github.com/Rubendvb/nlw-eSports)
 
 - 🌱 I’m currently learning **JavaScript, Python and NodeJs**
 
