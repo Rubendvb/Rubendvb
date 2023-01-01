@@ -22,21 +22,13 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; width:  50%">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="50" height="50"> 
-  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-
   <img src="https://cdn.iconscout.com/icon/free/png-256/react-2752089-2284906.png" alt="reactjs" width="50" height="50"/>
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
 </div>
 
@@ -44,8 +36,8 @@
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rubendvb&row=2&column=4&theme=nord&margin-w=15&margin-h=15" alt="Rubendvb" /></a></p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubendvb&show_icons=true&locale=en&layout=radical" alt="Rubendvb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rubendvb&show_icons=true&locale=en" alt="Rubendvb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubendvb&" alt="Rubendvb" /></p>
+<div style="display: flex; flex-direction: column; align-items: center; max-width: 500px">
+  <img style="margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubendvb&show_icons=true&locale=en&layout=compact&card_width=443&bg_color=282a36&text_color=fff&title_color=fff" alt="Rubendvb" />
+  <img style="margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api?username=Rubendvb&show_icons=true&locale=en&bg_color=282a36&text_color=fff&title_color=fff" alt="Rubendvb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubendvb&theme=tokyonight_duo" alt="Rubendvb" />
+</div>
