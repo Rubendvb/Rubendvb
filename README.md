@@ -36,8 +36,12 @@
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rubendvb&column=-1&theme=nord&margin-w=15&margin-h=15" alt="Rubendvb" /></a></p>
 </div>
 
-<div style="display: flex; flex-direction: column">
-  <img style="margin-bottom: 1rem; width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubendvb&show_icons=true&locale=en&layout=compact&card_width=443&theme=nord" alt="Rubendvb" />
-  <img style="margin-bottom: 1rem; width: 100%" src="https://github-readme-stats.vercel.app/api?username=Rubendvb&show_icons=true&locale=en&theme=nord" alt="Rubendvb" />
-  <img style="width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubendvb&theme=nord" alt="Rubendvb" />
+<div style="display: flex; flex-direction: column; gap: 1rem; width: 100%">
+  <div style="display: flex; gap: 1rem">
+    <img style="" src="https://github-readme-stats.vercel.app/api?username=Rubendvb&show_icons=true&locale=en&theme=nord" alt="Rubendvb" />
+    <img style="" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubendvb&theme=nord" alt="Rubendvb" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubendvb&show_icons=true&locale=en&layout=compact&card_width=500px&theme=nord" alt="Rubendvb" />
+  </div>
 </div>
