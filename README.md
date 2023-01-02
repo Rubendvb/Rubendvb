@@ -37,7 +37,7 @@
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 1rem; align-items: start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubendvb&show_icons=true&locale=en&layout=compact&card_width=445px&theme=nord" alt="Rubendvb" />
   <img src="https://github-readme-stats.vercel.app/api?username=Rubendvb&show_icons=true&locale=en&theme=nord" alt="Rubendvb" />
   <img style="" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubendvb&theme=nord" alt="Rubendvb" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubendvb&show_icons=true&locale=en&layout=compact&card_width=445px&theme=nord" alt="Rubendvb" />
 </div>
