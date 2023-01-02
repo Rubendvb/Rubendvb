@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; width:  50%">
+<div style="display: flex; flex-direction: row; justify-content: space-between; width:  100%">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -33,7 +33,7 @@
 </div>
 
 <div style="margin-top: 1rem">
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rubendvb&row=2&column=4&theme=nord&margin-w=15&margin-h=15" alt="Rubendvb" /></a></p>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rubendvb&column=-1&theme=nord&margin-w=15&margin-h=15" alt="Rubendvb" /></a></p>
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; max-width: 500px">
