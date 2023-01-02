@@ -37,7 +37,7 @@
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; max-width: 500px">
-  <img style="margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubendvb&show_icons=true&locale=en&layout=compact&card_width=443&bg_color=282a36&text_color=fff&title_color=fff" alt="Rubendvb" />
-  <img style="margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api?username=Rubendvb&show_icons=true&locale=en&bg_color=282a36&text_color=fff&title_color=fff" alt="Rubendvb" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubendvb&theme=dracula" alt="Rubendvb" />
+  <img style="margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubendvb&show_icons=true&locale=en&layout=compact&card_width=443&theme=nord" alt="Rubendvb" />
+  <img style="margin-bottom: 1rem" src="https://github-readme-stats.vercel.app/api?username=Rubendvb&show_icons=true&locale=en&theme=nord" alt="Rubendvb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubendvb&theme=nord" alt="Rubendvb" />
 </div>
