@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **JavaScript, Python and NodeJs**
 
-- 📫 How to reach me **rubenvasquez556@gmail.com**
-
 <div>
   <h3 align="left">Connect with me:</h3>
 
