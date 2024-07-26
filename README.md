@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Rubendvb&style=for-the-badge" alt="Rubendvb" />
 
-- 🔭 I’m currently working on [NLW Copa](https://github.com/Rubendvb/nlw-Copa)
+- 🔭 I’m currently working on [Won Games API](https://github.com/Rubendvb/wongames-api)
 
 - 🌱 I’m currently learning **JavaScript, Python and NodeJs**
 
