@@ -36,6 +36,5 @@
 
 <div style="display: flex; flex-direction: column; gap: 1rem; align-items: start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubendvb&show_icons=true&locale=en&layout=compact&card_width=445px&theme=nord" alt="Rubendvb" />
-  [<img src="https://github-readme-stats.vercel.app/api?username=Rubendvb&show_icons=true&locale=en&theme=nord" alt="Rubendvb" />](https://github-stats-extended.vercel.app/api?username=Rubendvb&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
   <img style="" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubendvb&theme=nord" alt="Rubendvb" />
 </div>
