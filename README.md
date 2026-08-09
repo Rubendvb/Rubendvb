@@ -35,6 +35,6 @@
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 1rem; align-items: start">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rubendvb&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=Rubendvb&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)
+  <a href="[https://git.io/streak-stats](https://github-stats-extended.vercel.app/api?username=Rubendvb&theme=radical)">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rubendvb&theme=nord" alt="GitHub Streak" /></a>
 </div>
