@@ -1,36 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ruben!</h1>
-
-<h3 align="center">A passionate FullStack developer from Venezuela living in Rio de Janeiro - Brazil.</h3>
-
-<img src="https://komarev.com/ghpvc/?username=Rubendvb&style=for-the-badge" alt="Rubendvb" />
-
-- 🔭 I’m currently working on [Won Games API](https://github.com/Rubendvb/wongames-api)
-
-- 🌱 I’m currently learning **JavaScript, Python and NodeJs**
-
-<div>
-  <h3 align="left">Connect with me:</h3>
-
-  <p align="left">
-    <a href="https://www.linkedin.com/in/rub%C3%A9n-v%C3%A1squez-71711a1b7/"
-      target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ruben-vasquez-71711a1b7/"/></a>
-  </p>
-</div>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<div style="display: flex; flex-direction: row; justify-content: space-between; width:  100%">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="python" width="50" height="50">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/react-2752089-2284906.png" alt="reactjs" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-</div>
-
 <div style="display: flex; flex-direction: column; gap: 1rem; align-items: start">
   <h1 align="center">Hi 👋, I'm Ruben!</h1>
 
