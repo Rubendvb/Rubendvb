@@ -72,7 +72,7 @@
 </div>
 
 <div style="display: flex; flex-direction: column; gap: 1rem; align-items: start">
-  <a href="[https://git.io/streak-stats](https://github-stats-extended.vercel.app/api?username=Rubendvb&theme=radical)">
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rubendvb)](https://github.com/stats-organization/github-stats-extended)
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rubendvb&theme=nord" alt="GitHub Streak" /></a>
 </div>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rubendvb&theme=nord" alt="GitHub Streak" /></a>
