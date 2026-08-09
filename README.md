@@ -53,13 +53,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="top" src="https://github-stats-extended.vercel.app/api?username=Rubendvb&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-  <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=Rubendvb&layout=compact&langs_count=5&theme=tokyonight" alt="Top Languages" />
+  <img align="top" src="https://github-stats-extended.vercel.app/api?username=Rubendvb&show_icons=true&include_all_commits=true&theme=nord" alt="GitHub Stats" />
+  <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=Rubendvb&layout=compact&langs_count=5&theme=nord" alt="Top Languages" />
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rubendvb&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rubendvb&theme=nord" alt="GitHub Streak" />
   </a>
 </p>
 
