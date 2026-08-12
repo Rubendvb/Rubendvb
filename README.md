@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Ruben!</h1>
-  <h3>A passionate FullStack developer from Venezuela living in Rio de Janeiro, Brazil 🇧🇷</h3>
+  <h3>Mid-Level QA Engineer | 4+ yrs in QA Automation (Playwright, Python, CI/CD). Full-Stack mindset & leveraging AI for QA.</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Rubendvb&style=for-the-badge&color=0077B5" alt="Rubendvb profile views" />
